@@ -1,11 +1,6 @@
 = Salt Architecture
 
+The following diagram describes how {productname} integrates with Salt:
 
-
-
-
-
-Some description...
-
-.Salt Stack Diagram
+.Salt Integration Diagram
 image:dia-salt-stack.png[]
